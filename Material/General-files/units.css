@@ -1,0 +1,243 @@
+
+.vitamin-page__content_js{
+     display: none;
+}
+
+.vitamin-page__content {
+    font-family: 'MuseoNew', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+
+.vitamin-favorite .exercise_link{
+    color: #fff !important;
+    border-bottom: 1px dotted #fff;
+}
+
+.vitamin-favorite .j-show-hide .exercise_link {
+    border-bottom: 1px solid #fff;
+}
+
+.add_phrase_for_vitamin{
+    cursor: pointer;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+    line-height: 1;
+}
+
+.vitamin-page__content h2 {
+    clear: both;
+    color: #222;
+    font-size: 28px;
+    font-weight: bold;
+    line-height: 1.5em;
+    padding-bottom: .3em;
+    padding-top: 15px;
+    font-family: 'MuseoCyrl';
+}
+
+.vitamin-page__content h3 {
+    clear: both;
+    color: #222;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.5em;
+    padding-bottom: .3em;
+    padding-top: 15px;
+    font-family: 'MuseoCyrl';
+}
+
+.vitamin-page__content img {
+    display: block;
+    margin: 20px 0;
+}
+
+.vitamin-page__content ul {
+    margin-top: 20px;
+}
+
+.vitamin-page__content iframe {
+    display: block;
+    margin: 20px 0;
+}
+
+.input-style-4 {
+    padding: 15px 18px !important;
+}
+
+.word-wrapper{
+    cursor: pointer;
+}
+
+.vitamin-page__content strong .word-wrapper {
+    border-bottom: 1px dashed #999;
+}
+
+.vitamin-all__item__icon,
+.vitamin-all__item__text {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.vitamin-all__item {
+    margin-bottom: 10px;
+    background: #F9F9F8;
+    padding: 0px 10px;
+    border-radius: 3px;
+}
+
+.vitamin-all__item a {
+    text-decoration: none;
+    color: #333;
+}
+
+.vitamin-all__item__icon {
+    width: 40px;
+    height: 40px;
+    margin-right: 5px;
+}
+
+.vitamin-all__item__icon svg {
+    width: 100%;
+    height: 100%;
+}
+
+.vitamin-all__item__text {
+    max-width: 870px;
+}
+
+.vitamin-all__item__text span {
+    color: #008ea7;
+    font-size: 16px;
+}
+
+.vitamin-all__item a:hover .vitamin-all__item__text span {
+    color: #02bdde;
+    border-bottom: 1px solid;
+}
+
+.vitamin-all__header {
+    background-color: #65b289;
+}
+
+.vitamin-page__top-like .comment-content > p {
+    margin-bottom: 0;
+}
+
+.vitamin-page__top-like .comment-body {
+    padding-bottom: 25px;
+}
+
+.plushka-dict {
+    font-size: 18px;
+    cursor: default;
+    display: inline-block;
+    min-width: 170px;
+}
+
+.plushka-dict__link {
+    border-bottom: 1px dashed;
+}
+
+.plushka-dict__translate {
+    display: none;
+}
+
+.plushka-dict:hover .plushka-dict__translate {
+    display: inline;
+}
+
+.plushka-dict:hover .plushka-dict__link {
+    display: none;
+}
+
+
+.vitamin-page__phrase {
+    margin-right: 8px;
+}
+
+.vitamin-page__phrase-eng .word-wrapper {
+    font-weight: bold;
+    border-bottom: 1px dashed #000;
+    cursor: pointer;
+}
+
+.vitamin-page__phrase-add {
+    margin-top: 4px;
+}
+
+.vitamin-page__phrase-add {
+    cursor: pointer;
+}
+
+.vitamin-page__phrase-add:hover .icon-dict-add__round,
+.vitamin-page__phrase-add:hover .icon-dict-add__border {
+    fill: #71b26f;
+}
+
+.vitamin-page__phrase-add:hover .icon-dict-add__icon {
+    fill: #fff;
+}
+
+.vitamin-page__phrase,
+.vitamin-page__phrase-eng,
+.vitamin-page__phrase-rus,
+.vitamin-page__phrase-dash {
+    display: inline;
+    vertical-align: middle;
+}
+
+.vitamin-page__phrase-add {
+    vertical-align: middle;
+}
+
+.vitamin-page__content audio {
+    width: 100%;
+    margin: 30px 0 0;
+}
+
+.vitamin-page__content audio::-webkit-media-controls-panel {
+    background: #dfe8f4;
+    padding: 20px;
+    border-radius: 6px;
+    border: 1px solid rgba(221, 221, 221, 0.68);
+}
+
+
+
+/* Large screens */
+
+@media only screen and (min-width: 1280px) {
+
+    .vitamin-page__content {
+        font-size: 18px;
+    }
+
+}
+
+/*Extra small devices (phones)*/
+
+@media only screen and (max-width : 767px) {
+
+    .vitamin-page__content {
+        max-width: 100%;
+        padding: 0 10px;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    .entry-title {
+        padding-right: 0;
+        font-size: 24px;
+    }
+
+    .add-comment-wrap .l-wrapper {
+        max-width: 100% !important;
+    }
+
+}
+
+.puzzle-movies__filter-item i path{
+    fill: #333;
+}

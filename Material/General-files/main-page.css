@@ -1,0 +1,3357 @@
+
+
+/*teacher second*/
+
+
+.teacher-second__themes__item__name__top {
+    font-size: 48px;
+	color: white;
+	font-weight: bold;
+    line-height: 40px;
+	font-family: MuseoNew, Verdana, Helvetica, "Helvetica Neue", Arial, sans-serif;
+    -webkit-text-stroke: 1.5px black;
+}
+
+.teacher-second__themes__item__name__bottom {
+    font-size: 72px;
+	color: white;
+	font-weight: bold;
+    font-family: MuseoNew, Verdana, Helvetica, "Helvetica Neue", Arial, sans-serif;
+	-webkit-text-stroke: 1.5px black;
+}
+	
+.teacher-second__themes__item__name__top__2 {
+    font-size: 48px;
+	color: white;
+	font-weight: bold;
+    line-height: 48px;
+    -webkit-text-stroke: 1px black;
+}
+
+.teacher-second__themes__item__name__bottom__2 {
+    font-size: 28px;
+	color: white;
+	font-weight: bold;
+    font-family: MuseoNew, Verdana, Helvetica, "Helvetica Neue", Arial, sans-serif;
+	-webkit-text-stroke: 1px black;
+}
+
+.teacher-second-test-content .word-wrapper {
+    cursor:default;
+}
+
+.finished .teacher-second-test-content .word-wrapper {
+    cursor:pointer;
+}
+
+.finished .teacher-second-test-content .word-wrapper:hover, .academy_words .word-wrapper:hover  {
+    background-color: #54bb53;
+    -webkit-box-shadow: 0 0 0 3px #54bb53;
+    box-shadow: 0 0 0 3px #54bb53;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.teacher-second__level__info {
+    position:relative;
+    z-index:0;
+    background: #fff;
+    padding:15px 30px;
+}
+
+.teacher-second__level__progress {
+    position: relative;
+    z-index: 0;
+    background: #fff;
+    padding: 15px 15px 15px 30px;
+    margin-top: 25px;
+}
+
+.teacher-second__level__progress-course {
+    border-bottom: 0;
+    -webkit-box-shadow: 10px 10px 35px -5px rgba(0,0,0,0.1);
+    -moz-box-shadow: 10px 10px 35px -5px rgba(0,0,0,0.1);
+    box-shadow: 10px 10px 35px -5px rgba(0,0,0,0.1);
+    padding: 25px !important;
+}
+
+.teacher-second__level__progress .test-progress__exam-success {
+    background: #4ec5f7;
+}
+
+.teacher-second__level__progress .test-progress_teacher-levels {
+    background: #e0e0e0;
+    margin: 20px 45px 20px 0;
+    display: inline-block;
+}
+
+.teacher-second__level__info__column {
+    width: 32%;
+    display: inline-block;
+}
+
+.teacher-second__level__info__row {
+    font-family: MuseoNew, Arial;
+    font-size: 16px;
+    color: #323b46;
+    margin: 15px 0;
+}
+
+.teacher-second__level__info__row b {
+    font-family: SegoeUI-Bold, Arial;
+}
+
+.teacher-second__level__progress__count {
+    font-family: MuseoNew, Arial, sans-serif;
+    font-size: 14px !important;
+    color: #4f5255;
+    display: block;
+    margin: -5px 0 5px 0;
+}
+
+.teacher-second__level__progress__count strong {
+    font-family: SegoeUI-Bold, Arial;
+}
+
+.teacher-second__header .vteacher__header__logo__slogan__top, .puzzle-footer__bottom .vteacher__header__logo__slogan__top {
+    font-size:24px !important;
+    color:#323b46;
+}
+
+.teacher-second__footer .puzzle-footer__content {
+    display: block !important;
+}
+
+.teacher-second__header .vteacher__header__logo__slogan__bottom, .puzzle-footer__bottom .vteacher__header__logo__slogan__bottom {
+    font-size:14px !important;
+    font-family: SegoeUI !important;
+    color: #323b46;
+}
+
+
+.teacher-second__header .vteacher__header__logo {
+    padding-top:0 !important;
+}
+
+.teacher-second__header .vteacher__header-link {
+    color: #000;
+    border-bottom: 1px solid #000;
+    margin-right: 25px;
+}
+
+.vteacher__header-dict-link {
+    color: #05aaef !important;
+}
+.vteacher__header-dict-link i {
+    margin-right: 3px;
+}
+.vteacher__header-dict-link.border-link_blue:hover svg g {
+    fill: #fff;
+}
+.vteacher__header-dict-link.border-link_blue:hover {
+    color: #fff !important;
+}
+
+
+.teacher-second__header .vteacher__header__logo__icon, .puzzle-footer__bottom .vteacher__header__logo__icon {
+    height: 53px !important;
+    width: 47px !important;
+}
+
+.teacher-second__header {
+    height:auto !important;
+    padding:15px !important;
+}
+
+
+.puzzle-footer__bottom .vteacher__header__logo__slogan span {
+    color:#fff;
+}
+
+.teacher-second__level__info .test-progress_teacher-levels {
+    width:100%;
+    margin-top:15px;
+}
+
+.teacher-second__level__info .test-progress__exam-success {
+    background: #4ec5f7;
+}
+
+.teacher-second__level__info__row svg {
+    margin-right:10px;
+}
+
+.teacher-second__themes {
+    background-color: #f3f3f3;
+    padding: 30px 0 100px 0;
+}
+
+.teacher-second__themes > .l-wrapper {
+    width: 940px;
+    position:relative;
+}
+
+.teacher-second__themes__title {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top:10px;
+}
+
+.teacher-second__themes__title__big {
+    font-size: 32px;
+    color: #323b46;
+}
+
+.teacher-second__level__info__row__text {
+    line-height: 1;
+}
+
+.teacher-second__level__info__row__icon {
+    margin-right: 10px;
+}
+
+.teacher-second__themes__title__mini {
+    font-size: 16px;
+}
+
+.teacher-second__themes__item__header {
+    position: relative;
+    height: 220px;
+    background-color: #fff;
+    border-bottom: 2px solid #ececec;
+}
+
+.course-block-image {
+    height: 100%;
+}
+
+.course-second__themes__item__header {
+    display: flex;
+    height: 264px;
+    border-bottom: 1px solid #ececec;
+    -webkit-box-shadow: 10px 10px 35px -5px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 10px 10px 35px -5px rgba(0, 0, 0, 0.1);
+    box-shadow: 10px 10px 35px -5px rgba(0, 0, 0, 0.1);
+}
+
+.course-second__themes__item__left {
+    width: auto !important;
+    height: 100% !important;
+    padding: 0 !important;
+    position: relative;
+}
+
+.teacher-second__themes__item__header .puzzle-ribbon_style_red {
+    left: -10px;
+    bottom: 20px;
+}
+
+.block-progress-container {
+    float: right;
+    margin-top: -5px;
+}
+
+.block-progress-container_done {
+    margin-top: -8px;
+}
+
+.block-progress-container_done .b-progress_title {
+    display:none;
+}
+
+.block-progress-container .teacher-second__lessons__item__circle {
+    display: none;
+}
+
+.block-progress-container_blocked .teacher-second__lessons__item__circle {
+    display: block;
+    margin-right:-3px;
+    margin-top:-2px;
+    margin-bottom:4px;
+}
+
+.block-progress-container_blocked .progress_circle_container {
+    display:none;
+}
+
+.block-progress-text {
+    font-family: MuseoNew, Arial;
+    text-align:center;
+    clear:both;
+    font-size: 7px;
+    color: #89929e;
+}
+
+.teacher-second .b-progress_title {
+    font-family: SegoeUI-Bold, Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 11px;
+    color: #323b46;
+}
+
+.teacher-second__themes__item__footer {
+    height: 20px;
+    padding-top: 4px;
+    text-align: center;
+    color: #b6b6b6;
+    font-family: MuseoNew, Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 10px;
+    clear: both;
+    background: #fff;
+}
+
+.teacher-second__themes__item {
+    cursor: pointer;
+    margin-top:30px;
+}
+
+.teacher-second__themes__item .teacher-second__themes__item__lessons {
+    display:none;
+}
+
+.teacher-second__themes__item .puzzle-icon_block-slide-arrow {
+    margin-left: 7px;
+}
+
+.teacher-second__themes__item .puzzle-icon_block-slide-arrow svg {
+    -webkit-transform: scale(1, -1);
+    -moz-transform: scale(1, -1);
+    -ms-transform: scale(1, -1);
+    -o-transform: scale(1, -1);
+    transform: scale(1, -1);
+}
+
+.teacher-second__themes__item_opened .puzzle-icon_block-slide-arrow svg {
+    -webkit-transform: scale(1, 1);
+    -moz-transform: scale(1, 1);
+    -ms-transform: scale(1, 1);
+    -o-transform: scale(1, 1);
+    transform: scale(1, 1);
+}
+
+.teacher-second__themes__item:hover {
+}
+
+.teacher-second__themes__item:last-child {
+    margin-bottom: 0;
+}
+
+.teacher-second__themes__item__left,
+.teacher-second__themes__item__right {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.teacher-second__themes__item__left {
+    position: relative;
+    width: 463px;
+    height: 220px;
+    padding: 10px 10px 0 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.teacher-second__themes__item__right {
+    width: 58.5%;
+    font-family: MuseoNew, Verdana, Helvetica, "Helvetica Neue", Arial, sans-serif;
+}
+
+.course-second__themes__item__right {
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    width: 65% !important;
+}
+
+.course_lessons_list {
+    width: auto;
+    margin: 25px;
+    float: right;
+}
+
+.course__lesson-list-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 25px 15px 30px;
+}
+
+.course__lesson-list-row::after {
+    content: none !important;
+}
+
+.course_lessons_list-block {
+    position: relative;
+}
+
+@media only screen and (min-width: 48em) {
+    .course__description_image_block {
+        flex-basis: 8% !important;
+        max-width: 8% !important;
+    }
+
+    .course__description_text_block {
+        flex-basis: 92% !important;
+        max-width: 92% !important;
+    }
+
+    .course__description_image {
+        width: 100% !important;
+    }
+
+    .course__buy_button {
+        margin-top: 0 !important;
+    }
+}
+
+.course__description_text_block {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    padding-right: 16px;
+}
+
+.course__buy_button {
+    margin-top: 1em;
+    margin-left: -15px;
+}
+
+.course__description_image {
+    width: auto;
+    max-height: 200px;
+    margin: auto;
+}
+
+.course__description_image_block {
+    display: flex;
+}
+
+.teacher-second__themes__item__name {
+    position: relative;
+    border: 0px dashed #203636;
+    padding: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    display: inline-block;
+}
+
+.teacher-second__themes__item__name::after {
+    content: '';
+    position: absolute;
+    height: 214px;
+    width: 1px;
+    border-left: 0px dashed #203636;
+    left: 44px;
+    top: 100%;
+    z-index: 1;
+}
+
+.teacher-second__themes__item_opened .teacher-second__themes__item__name::after {
+    content: '';
+    position: absolute;
+    height: 167px;
+    width: 1px;
+    border-left: 0px dashed #203636;
+    left: 44px;
+    top: 100%;
+    z-index: 1;
+}
+
+.teacher-second__themes__item:last-child .teacher-second__themes__item__name::after,
+.teacher-second__themes__item:last-child .teacher-second__lessons__item__num::after {
+    content: none;
+}
+
+.teacher-second__themes__item__button {
+    margin-top:75px;
+}
+
+.teacher-second__themes__item__prop {
+    width:320px;
+    font-size:14px;
+}
+
+.teacher-second__themes__item__prop__grammar {
+    margin-top:3px;
+}
+
+.teacher-second__themes__item__prop__duration {
+    vertical-align: top;
+}
+
+.teacher-second__themes__item__prop__count {
+    margin-bottom:6px;
+}
+
+.teacher-second__themes__item__prop__count__icon,
+.teacher-second__themes__item__prop__count__text,
+.teacher-second__themes__item__prop__duration__icon,
+.teacher-second__themes__item__prop__duration__text {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.teacher-second__themes__item__prop__count__text strong, .teacher-second__themes__item__prop__duration__text strong{
+    font-family: SegoeUI-Bold, Arial;
+}
+
+.teacher-second__themes__item__prop__count__icon {
+    width: 14px;
+    height: 12px;
+    margin-right: 5px;
+}
+
+.teacher-second__themes__item__prop__count__icon svg,
+.teacher-second__themes__item__prop__duration__icon svg  {
+    width: 100%;
+    height: 100%;
+    vertical-align: top;
+}
+
+.teacher-second__themes__item__prop__duration__icon {
+    margin-right: 5px;
+    width:15px;
+    height:17px;
+}
+
+.teacher-second__themes__item__prop__exams__icon {
+    margin-right: 6px;
+    width:13px;
+    height:11px;
+}
+
+.teacher-second__themes__item__prop__lessons__icon {
+    margin-right: 5px;
+    width:14px;
+    height:18px;
+}
+
+.teacher-second__themes__item__content {
+    padding: 15px 10px 15px 20px;
+    font-size:16px;
+}
+
+.teacher-second__themes__item__content_course {
+    padding: 15px 25px 15px 20px;
+}
+
+.teacher-second__themes__item__prop__count__text {
+    margin-top:-5px;
+}
+
+.teacher-second__themes__item__prop hr {
+    width: 114px;
+    height: 2px;
+    border:0;
+    background: #ececec;
+    padding:0;
+    margin-top:15px;
+}
+
+.teacher-second__themes__item__prop__sections {
+    font-size:14px;
+    text-transform: lowercase;
+    margin-top:15px;
+    max-height:95px;
+}
+
+.teacher-second__themes__item__prop__sections span {
+    font-family:SegoeUI-Bold, Arial;
+    font-weight:bold;
+    display:block;
+    text-transform: none;
+}
+
+.teacher-second__themes__item__content__item {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.teacher-second__themes__item__content__item__icon {
+    width: 13px;
+    height: 13px;
+    border-radius: 5px;
+    background-color: #45484b;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.teacher-second__themes__item__content__item__name {
+    margin-right: 5px;
+    width: 150px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+
+.teacher-second__course__line {
+    position:absolute;
+    height:100%;
+    border-left:2px dashed #000;
+    left:37px;
+    top:178px;
+    z-index:1;
+}
+
+.teacher-second__themes__item__content__item.is-blue > * {
+    color: #009fed;
+}
+
+.teacher-second__themes__item__content__item.is-blue .teacher-second__themes__item__content__item__icon {
+    background-color: #10a6ee;
+}
+
+.teacher-second__themes__item__content__item.is-yellow > * {
+    color: #edb103;
+}
+
+.teacher-second__themes__item__content__item.is-yellow .teacher-second__themes__item__content__item__icon {
+    background-color: #edb103;
+}
+
+.teacher-second__themes__item__content__item.is-green > * {
+    color: #55a512;
+}
+
+.teacher-second__themes__item__content__item.is-green .teacher-second__themes__item__content__item__icon {
+    background-color: #55a512;
+}
+
+
+}
+
+.teacher-second__lessons__header > .l-wrapper {
+    text-align: justify;
+}
+
+.teacher-second__lessons__header > .l-wrapper::after {
+    display: inline-block;
+    content: '';
+    width: 100%;
+}
+
+.teacher-second__lessons__start__button {
+    display: inline-block;
+}
+
+.is-passed .teacher-second__lessons__start__button {
+    display: none;
+}
+
+.is-repeat {
+
+}
+
+.teacher-second__lessons__start__button__text {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    width: 115px;
+}
+
+.teacher-second__lessons__header__right,
+.teacher-second__lessons__header__left {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+}
+
+.button-style-teacher-green,
+.button-style-teacher-blue {
+    color: #fff;
+    border-width: 2px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.button-style-teacher-green {
+    background-color: #1cb42a;
+    border-bottom-color: #178e23;
+}
+
+.button-style-teacher-blue {
+    background-color: #2185d5;
+    border-bottom-color: #1c6aa8;
+}
+
+.level_a2 .vteacher__test-info {
+    position: fixed;
+}
+
+.vteacher-test-video {
+    /*max-width:300px;*/
+    max-height:300px;
+    cursor:pointer;
+    display:block !important;
+}
+
+.no-overflow {
+    overflow:hidden;
+}
+
+@media only screen and (max-width: 1400px) {
+    #teacher-second__harry {
+        display: none;
+    }
+
+    #teacher-second__harry__exam, #teacher-second__harry__test {
+        display: none;
+    }
+}
+
+#teacher-second__harry {
+    display: none;
+    position:fixed;
+    right:0px;
+    bottom:0px;
+    height:550px;
+    overflow: hidden;
+}
+
+#teacher-second__harry svg {
+    height:500px;
+}
+
+#teacher-second__harry__exam, #teacher-second__harry__test {
+    position:fixed;
+    right:100px;
+    bottom:0px;
+    overflow: hidden;
+    z-index:40;
+}
+
+.level_a2 .bad_content_close {
+    display: none;
+}
+
+.bad_content_link {
+    display:none;
+    text-align:center;
+    padding-bottom:15px;
+}
+
+.bad_content_link a {
+    font-size:20px;
+}
+
+.level_a2 .bad_content_link {
+    display:block;
+}
+
+#teacher-second__harry__test img, #teacher-second__harry__exam img, #teacher-second__harry svg  {
+    height:500px;
+}
+
+html.flash #teacher-second__harry svg {
+    display: none;
+}
+
+html.no-flash #vteacher_usach_container {
+    display: none;
+}
+
+#teacher-second__harry object, #teacher-second__harry embed {
+    height: 710px;
+    width: 490px;
+}
+
+.teacher-second__lessons {
+    padding-bottom: 40px;
+}
+
+.teacher-second__lessons__item {
+    padding: 12px 25px 12px 30px;
+    height: 85px;
+    border-bottom: 1px solid #e9e9e9;
+    text-align: justify;
+    cursor: pointer;
+    background: #fff;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.teacher-second__lessons__item::after {
+    display: inline-block;
+    content: '';
+    width: 100%;
+}
+
+
+.teacher-second__lessons__item__left,
+.teacher-second__lessons__item__right {
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.teacher-second__lessons__item__left {
+    width: calc(100% - 180px);
+}
+
+.teacher-second__completed_date {
+    text-align:center;
+    font-size:12px;
+    color:#668e74;
+    padding-top:12px;
+}
+
+
+.teacher-second__lessons__item__num,
+.teacher-second__lessons__item__text,
+.teacher-second__lessons__stars,
+.teacher-second__lessons__info,
+.teacher-second__lessons__arrow,
+.teacher-second__lessons__lock {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.teacher-second__lessons__item__text {
+    width: calc(100% - 100px);
+}
+
+.teacher-second__lessons__item__num {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-top: 9px;
+    font-size: 26px;
+    background-color: #34aba2;
+    border-radius: 50%;
+    color: #fff;
+    border: 2px solid #34aba2;
+    margin-right: 13px;
+    z-index: 10;
+    position: relative;
+}
+
+.teacher-second__lessons__item__num::after {
+    content: '';
+    position: absolute;
+    height: 36px;
+    width: 1px;
+    border-left: 1px dashed rgba(32, 54, 54, 0.57);
+    left: 50%;
+    top: 100%;
+    z-index: 1;
+}
+
+.teacher-second__lessons__item:last-child .teacher-second__lessons__item__num::after {
+    height: 85px;
+}
+
+.teacher-no-lines::after{
+    height: 0 !important;
+}
+
+.teacher-second__lessons__item__num span {
+    position: relative;
+    z-index: 2;
+}
+
+.teacher-second__lessons__item__num img {
+    width:34px;
+    height:29px;
+    margin:-5px 0px 0px 3px;
+}
+
+.teacher-second__lessons__item__text {
+    max-width: 630px;
+    color: #4b4e53;
+}
+
+.buy-row .teacher-second__lessons__item__num {
+    background: green;
+}
+
+.teacher-second__lessons__item__text__title-big {
+    color: #203636;
+    font-size: 24px;
+    line-height: 1;
+    font-family: MuseoNew, Arial, sans-serif;
+}
+
+.teacher-second__lessons__item__text__title-mini {
+    margin-top:6px;
+    font-family: MuseoNew, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1;
+    color: #7e9595;
+
+}
+
+.teacher-second__lessons__item__repeat {
+    font-size:13px;
+    color:#ea3a1b;
+    text-align:center;
+    margin-right:-10px;
+}
+
+.teacher-second__lessons__stars__icon {
+    width: 30px;
+    height: 28px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right:10px;
+}
+
+.teacher-second__lessons__stars__icon:last-child {
+    margin-right:0;
+}
+
+.teacher-second__lessons__stars__icon_small {
+    height: 2.1vh;
+    width:2.5vh;
+    margin-right:0.5vh;
+}
+
+.teacher-second__lessons__stars__icon svg {
+    width: 100%;
+    height: 100%;
+}
+
+.teacher-second__lessons__stars__icon svg path {
+    fill: #e5ba24;
+}
+
+.teacher-second__lessons__stars__icon.is-empty svg path {
+    stroke: #cdcdcd;
+    fill: none;
+}
+
+.teacher-second__lessons__info {
+    width: 28px;
+    height: 28px;
+    margin-right: 36px;
+}
+
+.teacher-second__lessons__info svg {
+    width: 100%;
+    height: 100%;
+}
+
+.teacher-second__lessons__arrow {
+    width: 16px;
+    height: 30px;
+}
+
+.teacher-second__lessons__arrow svg {
+    width: 100%;
+    height: 100%;
+}
+
+.teacher-second__lessons__lock {
+    width: 18px;
+    height: 27px;
+}
+
+.teacher-second__lessons__lock svg {
+    width: 100%;
+    height: 100%;
+}
+
+.teacher-second__lessons__lock svg path {
+    fill: #ddddde;
+}
+
+.teacher-second__lessons__item.is-active .teacher-second__lessons__item__num {
+    color: #000;
+    background: #fff;
+    border: 1px dashed #000;
+}
+
+.teacher-second__lessons__item__circle {
+    background-color: #f2f2f2;
+    width: 58px;
+    height: 58px;
+    text-align: center;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-top: 12px;
+    font-size: 21px;
+    border-radius: 50%;
+    z-index: 10;
+    position: relative;
+}
+
+.teacher-second__lessons__item__circle-1 {
+    background-color: #f2f2f2;
+    width: 58px;
+    height: 58px;
+    text-align: center;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box; 
+    font-size: 21px;
+    border-radius: 50%;
+    z-index: 10;
+    position: relative;
+}
+
+.teacher-second__lessons__item .teacher-second__lessons__item__circle__green {
+    background-color: #62c162;
+    padding-top: 14px;
+    padding-left: 3px;
+}
+
+.teacher-second__lessons__item.is-disabled .teacher-second__lessons__item__num {
+    color: #203636;
+    background: #fff;
+    border: 1px dashed #203636;
+    opacity: 0.5;
+}
+
+.teacher-second__lessons__item.is-disabled .teacher-second__lessons__item__text {
+    color: #203636;
+    opacity: 0.5;
+}
+
+.teacher-second__lessons__item.is-disabled .teacher-second__lessons__stars__icon svg path {
+    stroke: #cdcdcd;
+    fill: none;
+}
+
+.teacher-second__lessons__item.is-exam .teacher-second__lessons__item__num {
+    background-color: #34aba2;
+    color: #34aba2;
+}
+
+.teacher-second__lessons__item.is-exam .teacher-second__lessons__item__text {
+    color: #fff;
+}
+
+.teacher-second__lessons__item.is-exam .teacher-second__lessons__item__text__title-big {
+    margin: 0;
+}
+
+.teacher-second__lessons__item.is-exam .teacher-second__lessons__arrow svg path {
+    fill: #fefefe;
+}
+
+.teacher-second__lessons__item.is-talk {
+
+}
+
+.puzzle-text_lh_55 .puzzle-figure {
+    line-height:normal;
+}
+
+.teacher-second__train {
+    min-height: 90vh;
+    padding-bottom: 70px;
+    position: relative;
+}
+
+.teacher-second-board__text {
+    white-space: pre-wrap;
+}
+
+.teacher-second-board__text .word-wrapper {
+    border-bottom: 2px dotted;
+}
+
+.teacher-second-board__image img {
+    max-width:400px;
+    max-height:250px;
+}
+
+.teacher-second__train_bgc_eff2e5-beige {
+    background-color: #eff2e5;
+}
+
+.teacher-second__train-header {
+    text-align: center;
+    padding: 15px 0;
+}
+
+#board_text3 {
+    margin-top: 4.557291666666667vh;
+    display: block;
+}
+
+.teacher-second-exercise > .white-round-box {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    justify-content: space-between;
+    -ms-align-items: flex-end;
+    align-items: flex-end;
+}
+
+.teacher-second-board + .puzzle-button.puzzle_ta_center.puzzle-button_blue.puzzle_va_middle.j-test-start {
+    margin-bottom: 30px;
+}
+
+.teacher-second-exercise__content__must-man {
+    position: absolute;
+    right:-25px;
+    top:0;
+    z-index: 1;
+}
+
+.teacher-second-exercise__content__must-man img {
+    width:200px;
+}
+
+.teacher-second-exercise_kids .teacher-second__board-wrapper {
+    display: none;
+}
+
+.teacher-second-exercise_kids .teacher-second-video {
+    width: 100%;
+    height: 540px;
+}
+
+.teacher-second-finish .white-round-box {
+    padding:50px;
+    height: auto !important;
+}
+
+.teacher-second__themes {
+    min-height:512px;
+}
+
+
+.white-svg svg g {
+    fill:#fff !important;
+}
+
+.teacher-second__board-balloon {
+    background-color: #eef3e6;
+    display: inline-block;
+    position: absolute;
+    width: 332.04px;
+    left: 50%;
+    -webkit-transform: translate(-50%);
+    -ms-transform: translate(-50%);
+    -o-transform: translate(-50%);
+    transform: translate(-50%);
+    top: 45px;
+    z-index: 5;
+    padding: 17.94px 17.94px 10px 17.94px;
+    text-align: left;
+    -webkit-box-shadow: 0 4px 0 #d4dec4;
+    box-shadow: 0 4px 0 #d4dec4;
+    white-space: normal;
+    cursor: default;
+    color: #333!important;
+    border: 2px solid #fff;
+    border-bottom: none;    
+}
+
+.academy_words .teacher-second__board-balloon {
+    background-color: #d2e8ec;
+    -webkit-box-shadow: 0 4px 0 #b3d1d6;
+    box-shadow: 0 4px 0 #b3d1d6;
+    top: 30px;
+    -webkit-transform: translate(-90%);
+    -ms-transform: translate(-90%);
+    -o-transform: translate(-90%);
+    transform: translate(-90%);
+}
+
+.academy_words .teacher-second__board-balloon::after {
+    background-color: #d2e8ec;
+    left: 90%;
+}
+
+.teacher-second__board-balloon .vteacher__exercise__content__text__translate-balloon:after,
+.teacher-second__board-balloon::after {
+    content: '';
+    display: inline-block;
+    width: 19.56px;
+    height: 19.56px;
+    background-color: #eef3e6;
+    left: 50%;
+    margin-left: -9.78px;
+    position: absolute;
+    top: -9.78px;
+    -webkit-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+.teacher-second__board-balloon-relation {
+    font-size:18px;
+    line-height:30px;
+}
+
+.teacher-second__board-balloon-relation span {
+    color:#757471;
+}
+
+.teacher-second__board-balloon .vteacher__exercise__content__text__translate-balloon__text {
+    margin-bottom: 15px;
+    font-size: 24px;
+}
+
+.vteacher__exercise__content__text__translate-balloon__text strong {
+    font-family: SegoeUI-Bold, Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.teacher-second__board-balloon .vteacher__exercise__content__text__translate-balloon__text__buttons {
+    margin-bottom: -15px;
+    text-align: justify;
+}
+
+.teacher-second__board-balloon .vteacher__exercise__content__text__translate-balloon__text__buttons::after {
+    display: inline-block;
+    content: '';
+    width: 100%;
+}
+
+.teacher-second__board-balloon .vteacher__exercise__content__text__translate-balloon__text__buttons__orange {
+    vertical-align: top;
+    height: 36px;
+    padding: 4px 0;
+    width: 23%;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 3px;
+    background-image: -moz-linear-gradient( 90deg, #f69b17 0%, #f5b353 100%);
+    background-image: -webkit-linear-gradient( 90deg, #f69b17 0%, #f5b353 100%);
+    background-image: -ms-linear-gradient( 90deg, #f69b17 0%, #f5b353 100%);
+    box-shadow: 0px 3px 0px 0px #e29519;
+    display: inline-block;
+    position: relative;
+}
+
+.teacher-second__board-balloon .vteacher__exercise__content__text__translate-balloon__text__buttons__orange > svg {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 19px;
+}
+
+.teacher-second__board-balloon .vteacher__exercise__content__text__translate-balloon__text__buttons__blue {
+    vertical-align: top;
+    height: 36px;
+    padding: 4px 0;
+    width: 70%;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 3px;
+    box-shadow: 0px 3px 0px 0px #006ca9;
+    display: inline-block;
+    position: relative;
+    background-color: #00a3d5;
+    overflow: hidden;
+}
+
+.teacher-second__board-balloon .vteacher__exercise__content__text__translate-balloon__text__buttons__blue__snail {
+    overflow: visible !important;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    -o-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    border-bottom: 1px solid #38c2e3;
+    height: 15.6px;
+    display: inline-block;
+    width: 10%;
+}
+
+.teacher-second__board-balloon .vteacher__exercise__content__text__translate-balloon__text__buttons__blue__snail img {
+    position: absolute;
+    right: -30px;
+    top: 4px;
+    width: 31px;
+    height: 13px;
+}
+
+.teacher-second__board-balloon .vteacher__exercise__content__text__translate-balloon__text__buttons__blue__text {
+    font-size: 14px;
+    line-height: 36px;
+    color: #c1ecf9;
+    font-family: Arial;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.teacher-second-test-content .puzzle_task .puzzle-figure__wrapper:first-child {
+    margin-left: 13px;
+}
+
+.teacher-second-test-content .puzzle_task .puzzle-figure__wrapper__narrow:first-child {
+    margin-left: 0 !important;
+}
+
+.teacher-second-test-content .puzzle_task .puzzle-figure__wrapper__string {
+    padding:9px 0px;
+}
+
+.finished .wrong-answer .puzzle-figure, .train-wrong-answer .puzzle-figure, .result-wrong-answer {
+    background-color: #d0021b !important;
+}
+
+.vteacher_viewport_kids .test-progress__exam-fail {
+    background-color: #63c162;
+}
+
+.vteacher_viewport_kids .round-icon_red {
+    background-color: #54bb53;
+}
+
+.vteacher_viewport_kids .puzzle-text_c_d0021b-red {
+    color: #62c162;
+}
+
+.vteacher_viewport_kids .finished .wrong-answer .puzzle-figure, .train-wrong-answer .puzzle-figure, .result-wrong-answer {
+    background-color: #55a512 !important;
+}
+
+.finished .wrong-answer svg path, .train-wrong-answer svg path {
+    fill: #d0021b !important;
+}
+
+.vteacher_viewport_kids .finished .wrong-answer svg path, .train-wrong-answer svg path {
+    fill: #55a512 !important;
+}
+
+
+.teacher-second__results {
+    margin-bottom:30px;
+}
+
+.teacher-second-exam .puzzle-figure__wrapper__success {
+    background-image:none;
+    padding-left:0 !important;
+    cursor:pointer;
+}
+
+.teacher-second-exam .puzzle-figure__wrapper__success .puzzle-text {
+    text-decoration: underline;
+}
+
+.teacher-second__content .puzzles_source {
+    margin-left: -7px;
+    position: relative;
+}
+
+.teacher-second__content .puzzles_source_nomargin {
+    margin-left: 0;
+}
+
+.puzzle-figure__wrapper__string {
+    margin: 0 !important;
+}
+
+.puzzle-figure__wrapper__string i {
+    display:none;
+}
+
+.puzzle-figure__wrapper__string .puzzle-figure_bgc_54bb53-green {
+    background-color:transparent;
+}
+
+.puzzle-figure__wrapper__string .puzzle-figure_bgc_54bb53-green .puzzle-text {
+    color:#000;
+}
+
+.puzzle-figure__wrapper__narrow {
+    margin:0 1px !important;
+}
+
+.select_text_test .puzzle-figure__wrapper__narrow {
+    margin:-5px 0px 0px 0px !important;
+}
+
+.select_text_test .puzzle-figure__wrapper {
+}
+
+.puzzle-figure_narrow {
+    min-width: 50px;
+    height: auto;
+    padding: 9px 8px;
+}
+
+.puzzle-figure_narrow .puzzle-text {
+    font-size: 18px !important;
+}
+
+.puzzle-figure_narrow i {
+    display:none;
+}
+
+
+.teacher-second__container .select_text_test .puzzle_task .puzzle-dashed {
+    margin:0 2px 0 6px;
+}
+
+.noscroll .teacher-second__themes {
+    padding:0;
+}
+
+#contact_us_form {
+    display: block !important;
+}
+
+.feedback-form-wrap__faq,
+.feedback-form-wrap__faq__slidedown {
+    display: none !important;
+}
+
+.arrow-dropdown-menu__list-item a { color:#fff; }
+
+.teacher-second__footer .puzzle-header__menu__user__group span {
+    width: auto;
+}
+
+.teacher-second__footer .puzzle-footer__content__right {
+    width: auto;
+}
+
+.teacher-second__footer a {
+    text-decoration: none;
+}
+
+.teacher-second__footer .mind-battle__new-game__btn svg {
+    -webkit-transition: all .2s;
+    -o-transition: all .2s;
+    transition: all .2s;
+}
+
+.teacher-second__footer .mind-battle__new-game__btn:hover svg {
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.teacher-second__footer .l-wrapper {
+    width:940px;
+}
+
+.teacher-second__footer .puzzle-footer__bottom > .l-wrapper:after {
+    content:none;
+}
+
+.teacher-second__footer .puzzle-footer__bottom__logo {
+    margin: 20px 0 0 0;
+    float:right;
+}
+
+.teacher-second__footer .puzzle-header__menu__user {
+    margin:0;
+}
+
+.teacher-second__footer .puzzle-footer__menu-list__level {
+    width:190px;
+}
+
+.teacher-second__footer .puzzle-footer__menu-list__level .puzzle-footer__menu-list__item {
+    font-size: 15px;
+    color: #323b46;
+    background-repeat: no-repeat;
+    background-position: 0px 8px;
+    padding-left: 50px;
+    -webkit-background-size: 18px 18px !important;
+    background-size: 18px 18px !important;
+}
+
+.teacher-second__footer .puzzle-footer__menu-list__level .puzzle-footer__menu-list__item:first-child {
+    background: url('/templates/svg/icons/teacher/1.svg') 20px 45% no-repeat;
+}
+
+.teacher-second__footer .puzzle-footer__menu-list__level .puzzle-footer__menu-list__item:nth-child(2) {
+    background: url('/templates/svg/icons/teacher/2.svg') 20px 45% no-repeat;
+}
+
+.puzzle-answer-button {
+    position: relative;
+    z-index:50;
+}
+
+.teacher-second-one-test.finished {
+    padding-top: 40px;
+}
+
+.teacher-test-result i {
+    cursor: default;
+}
+
+
+.teacher-second-one-test.finished .j-skip-test, .teacher-second-one-test.finished .puzzles_source, .teacher-second-one-test.finished .j-next-test {
+    display: none!important;
+}
+
+.finished_tests_title {
+    margin-top: 100px;
+    color: #1e1e1e;
+    font-size: 24px;
+    display: block;
+    line-height: 1;
+}
+
+.teacher-second-one-test.finished .finished_tests_title, .j-listen-all-test {
+    display: none;
+}
+
+.teacher-second-one-test.finished .j-listen-all-test {
+    display: block;
+}
+
+.teacher-second-one-test__top-info {
+    padding-top:20px;
+}
+
+.finished .teacher-second-one-test__top-info {
+    padding-top:0px;
+}
+
+.finished .white-round-box__scroll {
+    margin-bottom:70px !important;
+}
+
+.teacher-second__mark-icon {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    z-index: 2;
+}
+
+.teacher-second__mark-icon_green {
+    background-color: #54bb53;
+}
+
+.teacher-second-one-test:not(.finished) .teacher-second-one-test__top-info-left-text {
+    color: #1e1e1e;
+    font-size: 24px;
+    display: block;
+    line-height: 1;
+
+}
+
+.teacher-second-one-test:not(.finished) .teacher-second-one-test__top-info-left {
+    margin-top: 0px;
+}
+
+.teacher-second-one-test__top-info-mark {
+    margin-right: 40px;
+    min-height: 30px;
+}
+
+.b-progress_bg_lesson {
+    -webkit-transform: scale(.8);
+    -moz-transform: scale(.8);
+    -ms-transform: scale(.8);
+    -o-transform: scale(.8);
+    transform: scale(.8);
+    position: relative;
+    right: 10px;
+}
+
+.b-progress_bg_lesson .b-progress_title {
+    font-size: 13px;
+    color: #ffffff;
+}
+
+.teacher-second__lessons__item__right .puzzle-button_blue {
+    padding: 0;
+    margin-right: -10px;
+    margin-top: -12px;
+    margin-bottom: -15px;
+}
+
+.teacher-second__lessons__item__right .puzzle-button_green {
+    margin-right: -10px;
+    margin-top: -12px;
+    margin-bottom: -15px;
+}
+
+
+.teacher-second__lessons__stars {
+    margin-right: -10px;
+}
+
+.white-round-box__scroll {
+    clear:both;
+}
+
+.teacher-second__buy-button-block {
+    position: fixed;
+    bottom: 0;
+    background-color: #fff;
+    height: 94px;
+    width: 100%;
+    box-sizing: border-box;
+    box-shadow: 0px -3px 12px rgba(179, 192, 204, 0.22);
+    padding: 17px 0px;
+    z-index: 50;
+}
+
+.teacher-second__buy-button-wrapper {
+    text-align: center;
+}
+
+.teacher-second__buy-button {
+    font-size: 22px;
+    color: #3B2107;
+    background: #FDC031;
+    border-radius: 5px;
+    outline: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    width: 316px;
+    max-width: 316px;
+    height: 60px;
+}
+
+/* Гарри закрывает тренировки */
+
+@media screen and (max-width: 1900px) {
+    #teacher-second__harry object, #teacher-second__harry embed {
+        -webkit-transform: scale(.89);
+        -moz-transform: scale(.89);
+        -ms-transform: scale(.89);
+        -o-transform: scale(.89);
+        transform: scale(.89);
+    }
+
+    html.flash #teacher-second__harry {
+        right: -70px;
+    }
+
+    #teacher-second__harry__exam, #teacher-second__harry__test {
+        right: 10px;
+    }
+}
+@media screen and (max-width: 1700px) {
+    #teacher-second__harry object, #teacher-second__harry embed {
+        -webkit-transform: scale(.78);
+        -moz-transform: scale(.78);
+        -ms-transform: scale(.78);
+        -o-transform: scale(.78);
+        transform: scale(.78);
+    }
+
+    html.flash #teacher-second__harry {
+        right: -100px;
+    }
+
+    #teacher-second__harry__test img, #teacher-second__harry__exam img, #teacher-second__harry svg {
+        height: 390px;
+    }
+
+    #teacher-second__harry__exam, #teacher-second__harry__test {
+        right: 10px;
+    }
+}
+@media screen and (max-width: 1600px) {
+    #teacher-second__harry object, #teacher-second__harry embed {
+        -webkit-transform: scale(.6);
+        -moz-transform: scale(.6);
+        -ms-transform: scale(.6);
+        -o-transform: scale(.6);
+        transform: scale(.6);
+    }
+
+    html.flash #teacher-second__harry {
+        right: -140px;
+    }
+
+    #teacher-second__harry__test img, #teacher-second__harry__exam img, #teacher-second__harry svg {
+        height: 320px;
+    }
+
+    #teacher-second__harry__exam, #teacher-second__harry__test {
+        right: -10px;
+    }
+}
+
+.teacher-second-one-test {
+    position: relative;
+}
+
+.teacher-second-video {
+    width: 480px;
+    height: 480px;
+    position: relative;
+    overflow: hidden;
+    z-index:5;
+}
+
+.teacher-second-video__target {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    left: 0px;
+    cursor:pointer;
+    min-width: 300px;
+}
+
+.teacher-second-video__target__straight {
+    left: 0;
+}
+
+
+.teacher-second-video + .puzzle_va_top {
+    width: 700px;
+}
+
+.teacher-second-video__button {
+    position: absolute;
+    left: 25px;
+    bottom: 25px;
+}
+
+.teacher-second-board {
+    padding: 40px 40px 0 20px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    height: auto;
+    min-height: 360px;
+    margin-bottom: 40px;
+}
+
+.teacher-second-board__title {
+    margin-bottom: 30px;
+    white-space: pre-wrap;
+}
+
+.teacher-second-board ul,
+.teacher-second-board ol {
+    max-width: 300px;
+    margin: 0;
+    padding: 0;
+}
+
+.teacher-second-board ol {
+    margin-left: 25px;
+}
+
+.no-line-break {
+    display: inline-block;
+}
+
+.teacher-second-board__title > span,
+.teacher-second-board__title > div.no-line-break > span {
+    position: relative;
+    cursor: pointer;
+    border-bottom: 2px dotted;
+    display: inline-block;
+    line-height: .8;
+    white-space: normal;
+}
+
+.teacher-second-board__title > span:hover,
+.teacher-second-board__text span.word-wrapper:hover,
+.teacher-second-board__title > div.no-line-break > span.word-wrapper:hover{
+    background-color: #54a512;
+    border-color: transparent;
+    color: #fff;
+    border-radius: 3px;
+    box-shadow: 0 0 0px 5px #54a512;
+}
+
+.teacher-second-board__title > span:hover c2 {
+    color: #fff;
+}
+
+.teacher-second-board__title .puzzle-text_c_0091d7-blue {
+    border: none;
+}
+
+/* eng Гарри закрывает тренировки */
+
+.teacher-choose-level {
+    padding: 50px 0 60px;
+    background-color: #f7f7f7;
+}
+
+.teacher-choose-level__content {
+    text-align: center;
+}
+
+.teacher-choose-level__title {
+    margin-bottom: 15px;
+}
+
+.teacher-choose-level__mini-title {
+    margin-bottom: 50px;
+}
+
+.teacher-choose-level__item {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    min-width: 300px;
+    margin-right: 10px;
+}
+
+.teacher-choose-level__item:last-child {
+    margin-right: 0;
+}
+
+.teacher-choose-level__btn-title {
+    margin-bottom: 20px;
+}
+
+.teacher-second__train-feedback {
+    margin: 8px 0;
+}
+
+.teacher-second__train-feedback:empty {
+    display: none;
+}
+
+.teacher-second__train-feedback-error {
+    color: #e63737 !important;
+    text-decoration: underline;
+    font-family: MuseoNew, Verdana, Helvetica, "Helvetica Neue", Arial, sans-serif;
+}
+
+.white-round-box__listen-left {
+    width: 560px;
+}
+
+.white-round-box__listen-right {
+    width: 200px;
+}
+
+.vteacher__test-info-list {
+    list-style-type: none;
+    display: table;
+    margin: 0 auto 20px;
+}
+
+.vteacher__test-info-list li {
+    margin-bottom: 5px;
+}
+
+.vteacher__test-info-list li:first-child {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.vteacher__test-info_limit-title {
+    margin-bottom: 30px;
+}
+
+.vteacher__test-info_limit-title a {
+    text-decoration: underline;
+}
+
+.vteacher__test-info-list .circle-num {
+    width: 5px;
+    height: 5px;
+    margin-right: 10px;
+}
+
+body .vteacher__free-daily-lesson .vteacher__test-info__text {
+    padding: 0 5vh;
+    font-size: 16px;
+}
+
+.vteacher__test-info {
+    margin: -42vh 0 0 -37vh;
+}
+
+.vteacher__test-info__text {
+    max-height: 26.5vh;
+    /*overflow-y: scroll;*/
+}
+
+.vteacher__test-info__content {
+    max-height: 90vh;
+}
+
+.vteacher__test-info__text  strong {
+    font-family: SegoeUI-Bold, Arial, sans-serif;
+}
+
+.vteacher__free-daily-lesson .vteacher__test-info__btn-green, .vteacher__free-daily-lesson .vteacher__test-info__btn-blue {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.vteacher__test-info__text span {
+    margin-bottom: 10px;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.vteacher__free-daily-lesson__item {
+    width: 60%;
+}
+
+.teacher-second-one-test__top-info-mark {
+    display: none;
+}
+
+.display_inline {
+    display:inline-block;
+}
+
+.vteacher__test-dicrionary {
+    margin-bottom: 2.6vh;
+}
+
+.vteacher__test-dicrionary-title {
+    text-align: center;
+    font-size: 2vh;
+    font-family: SegoeUI-Bold, Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-bottom: 2.6vh;
+}
+
+.vteacher__test-dicrionary-content {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.vteacher__test-dicrionary-item {
+    /*position: relative;*/
+    /*width: 32%;*/
+    /*margin-bottom: 1.95vh;*/
+    cursor: pointer;
+    font-family: MuseoNew, Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.vteacher__test-dicrionary-item > span {
+    position: relative;
+    font-size: 2.5vh;
+    color: #000;
+    border-bottom: .26vh solid;
+    display: inline-block;
+    line-height: 1.1;
+}
+
+.lesson_dictionary .dictionary-item {
+    font-family: MuseoNew, Arial, "Helvetica Neue", Helvetica, sans-serif;
+    cursor: pointer;
+    font-size: 2.5vh;
+    color: #000;
+    border-bottom: .26vh solid;
+    display: inline-block;
+    margin-bottom:5px;
+    line-height: 1.1;
+    position: relative;
+}
+
+.vteacher__test-dicrionary-item:hover > span {
+    color: #4a90e2;
+}
+
+.vteacher__test-dicrionary-item:nth-child(3n+3) {
+    text-align: right;
+}
+
+/*teacher-dictionary*/
+
+.teacher-dictionary {
+    padding: 50px 0;
+    background-color: #f5f5f5;
+}
+
+.teacher-dictionary__header {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #e5e5e5;
+}
+
+.teacher-dictionary__title {
+    line-height: 1;
+}
+
+.teacher-dictionary__filter {
+    vertical-align: middle;
+}
+
+.teacher-dictionary__filter-item {
+    font-family: MuseoNew, Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 14px;
+    color: #4a4a4a;
+    line-height: 1;
+}
+
+.teacher-dictionary__filter-input {
+    margin-right: 5px;
+}
+
+.teacher-dictionary__filter-label {
+    margin-right: 45px;
+}
+
+.teacher-dictionary__filter-item:last-child .teacher-dictionary__filter-label {
+    margin-right: 0;
+}
+
+.teacher-dictionary__filter-label-text {
+    height: 18px;
+}
+
+/**/
+
+.teacher-dictionary__sort {
+    font-family: MuseoNew, Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.teacher-dictionary__sort-filter {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin-bottom: 20px;
+}
+
+.teacher-dictionary__search input {
+    border-radius: 36px;
+    line-height: 1.3;
+    background-color: #ffffff;
+    border: solid 1px #dadada;
+    opacity: 0.47;
+    font-size: 14px;
+    color: #4a4a4a;
+    font-family: MuseoNew, Arial, "Helvetica Neue", Helvetica, sans-serif;
+    padding: 4px 20px;
+    width: 223px;
+    height: 32px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.teacher-dictionary__lesson-button {
+    margin-left: 35px;
+    height: 40px;
+    padding-top: 12px;
+    font-size: 14px;
+    width: 120px;
+    text-align: center;
+    visibility: hidden;
+}
+
+.teacher-dictionary__lesson-item:hover .teacher-dictionary__lesson-button {
+    visibility: visible;
+}
+
+.teacher-dictionary__lesson {
+    margin-bottom: 20px;
+    background-color: #ffffff;
+}
+
+.teacher-dictionary__lesson-item {
+    padding: 5px 15px;
+    border-top: 1px solid #f8f8f8;
+    height: 54px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.teacher-dictionary__lesson-header {
+    display: flex;
+    align-items: center;
+    padding: 5px 15px;
+    border-top: 1px solid #f8f8f8;
+    height: 54px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.vocabulary_sort:not(:first-of-type) {
+    display:none;
+}
+
+.vocabulary_empty {
+    display:none;
+}
+
+.teacher-dictionary__lesson-item.known {
+    color:green;
+}
+
+.teacher-dictionary__lesson-item .source {
+    cursor:pointer !important;
+}
+.teacher-dictionary__lesson-item .source:hover {
+    background: #588b4f;
+    color: #fff;
+    border-radius: 3px;
+    padding: 0 1px;
+    margin: 0 -1px;
+    cursor: default;
+}
+
+/*.balloon__buttons__add, .balloon__video__examples__trigger-box {*/
+/*    display:none !important;*/
+/*}*/
+
+.balloon_word_known {
+    display:block;
+    margin-top:10px;
+}
+
+.teacher-second-exam .hidden {
+    display:none;
+}
+
+.is-playing {
+    background: #e99838;
+}
+
+
+.line_answer_button {
+    display: none;
+    margin-top:-5px !important;
+}
+
+.images_source .line_answer_button {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.line_selector:hover .line_answer_button {
+}
+
+.line_selector:hover {
+    background: #f4f4f6;
+}
+
+.images_source img {
+    cursor:pointer;
+}
+
+.input_task_history {
+    display:none;
+}
+
+.finished .input_task_history {
+    display:block;
+}
+
+.j-test-video-repeat-button_container {
+    cursor: pointer;
+    /*display: inline-block;*/
+    display: none;
+    width:50px;
+}
+
+.children_vote_form textarea {
+    width:600px;
+    height:90px;
+    padding:10px;
+    font-size:15px;
+}
+
+.children_vote_form {
+    text-align:center;
+    background: #f4f4f6;
+    border:1px solid #ccc;
+    padding:20px;
+    border-radius: 5px;
+}
+
+.children_vote_form h2 {
+    font-size:25px;
+    color:#2AA53F;
+    padding-bottom:30px;
+}
+
+.children_vote_teacher {
+    display:inline-block;
+    width:150px;
+    margin:0 40px;
+}
+
+.children_vote_comment_container {
+    margin:15px 0px;
+}
+
+.children_vote img {
+    width:150px;
+    padding-bottom:5px;
+    cursor:pointer;
+}
+
+.teacher_children_vote_block {
+    background: #fff;
+    padding:15px;
+    margin:20px 0px;
+    text-align:center;
+}
+
+.teacher_children_vote_block .children_vote_form {
+    display:none;
+}
+
+.children_vote_toggle {
+    color: #000;
+    font-size:18px;
+    font-weight:bold;
+    text-decoration: underline;
+    cursor:pointer;
+}
+
+.academy_words {
+    position:absolute;
+    right: -165px;
+    width:120px;
+    border:1px solid #ccc;
+    padding:15px;
+}
+
+.academy_words ul {
+    margin:0;
+    list-style-type: none;
+}
+
+.academy_words ul li {
+    margin:0;
+    padding:0;
+    line-height:18px;
+}
+
+.academy_words ul li span {
+    cursor:pointer !important;
+    color:#19abeb;
+    text-decoration: underline;
+    font-size:12px;
+}
+
+.test_additional_content img {
+    max-height:300px;
+}
+
+.test_additional_content video {
+    max-height:300px;
+    display:inline-block !important;
+}
+
+.teacher-second__bye-info {
+    display: inline-block;
+    height: auto;
+    margin-bottom: 30px;
+    width:546px !important;
+}
+
+.teacher-second__bye-info .vteacher__test-info__content {
+    padding:3px !important;
+    border-radius:8px;
+}
+
+.teacher-second__bye-info > .puzzle-text_fz_14.puzzle-text_ff_segoe.puzzle_ta_center {
+    padding-top: 15px;
+}
+
+.teacher-second__bye-info .teacher-second__themes__item__name {
+    border: none;
+    width: 100%;
+    position: relative;
+    z-index: 2;
+}
+
+.teacher-second__bye-info .teacher-second__themes__item__left::after {
+    content: '';
+    width: 100%;
+    display: inline-block;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 1;
+    background-color: rgba(255, 255, 255, .5);
+}
+
+.teacher-second__bye-info .teacher-second__themes__item__name::after {
+    content: none;
+}
+
+.teacher-second__bye-info .teacher-second__themes__item__prop {
+    margin-left: 10px;
+    position: relative;
+    z-index: 2;
+}
+
+.teacher-second__bye-info .teacher-second__themes__item__prop svg path {
+    fill: #203636;
+}
+
+.teacher-second__bye-info .vteacher__test-info__counter__content {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.teacher-second__bye-info .puzzle-button_red {
+    font-size: 15px;
+    background: #ef3939;
+}
+
+.teacher-second__bye-info-footer {
+    padding: 20px 0 30px;
+}
+
+.teacher-second__free-user-info {
+    margin-top:20px;
+}
+.teacher-second__free-user-info .puzzle_ta_center {
+    background-color: #ef3939;
+    color: #fff;
+    padding: 15px;
+}
+
+.ccurrency-theme {
+    height: 10px;
+}
+
+.ccurrency-theme svg{
+    height: 10px;
+    width: auto;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.ccurrency-theme svg path {
+    fill: #000;
+}
+
+.ccurrency-theme-white svg path {
+    fill: #fff;
+}
+
+.teacher-second__bye-info-more .price-table__coll {
+    font-weight: normal;
+    font-size: 12px;
+    padding: 10px 5px;
+}
+
+.teacher-second__bye-info-more .price-table__coll--1 {
+    line-height: 1.2;
+}
+
+.teacher-second__bye-info-more .price-table__grid {
+    margin-bottom: 0;
+}
+
+.teacher-second__other-pay-wrapper .jBox-container {
+    background-color: #00a9ef;
+}
+
+.teacher-second__other-pay-wrapper .jBox-pointer::after {
+    background-color: #00a9ef;
+}
+
+.teacher-second__other-pay-wrapper a.rest-ways-link {
+    display: none;
+}
+
+#teacherOtherPayWay > .extra-ways-link {
+    display: none;
+}
+
+.teacher-second__lessons__lesson {
+    position: relative;
+    z-index: 2;
+}
+
+.teacher-second__theme-prices {
+    padding: 18px 20px;
+    background-color: #d8f6ee;
+    position: relative;
+}
+
+.teacher-second__theme-prices::after {
+    content: '';
+    position: absolute;
+    height: 120%;
+    width: 1px;
+    border-left: 1px dashed #203636;
+    left: 55px;
+    top: 0;
+    z-index: 1;
+}
+
+.teacher-second__board_mode-switch {
+    position: absolute;
+    left:10px;
+    top:10px;
+    z-index:30;
+}
+
+.vteacher__exercise__header__progress__popup_mode-switch {
+    width:123px;
+    margin:0 auto;
+    font-size: 0;
+}
+
+.teacher-second__board_mode-switch div, .vteacher__exercise__header__progress__popup_mode-switch div {
+    padding: 6px 10px;
+    font-family: ArialMT, Arial;
+    font-size: 14px;
+    font-weight: 400;
+    color: #333333;
+    float:left;
+    cursor:pointer;
+}
+
+.vteacher__exercise__header__progress__popup_mode-switch div {
+    float: none;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.teacher-second__board_mode,.vteacher__exercise__header__progress__popup_board_mode {
+    background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);
+    border: solid 1px #ededed;
+
+}
+
+.teacher-second__board_mode-active, .vteacher__exercise__header__progress__popup_board_mode-active {
+    background-image:none;
+    color:#fff !important;
+    background-color: #414141;
+    border: solid 1px #414141;
+}
+
+.teacher-second-video_text {
+    padding: 0px 18px;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: justify;
+    border-right: 1px solid #ccc;
+    display: none;
+    overflow-y: scroll;
+    height: 360px;
+    margin-top: 60px;
+}
+
+.vteacher__exercise__header__progress__popup__text {
+    font-size:13px;
+    line-height:15px;
+    text-align:justify;
+    margin-top:15px;
+    margin-bottom:10px;
+    display:none;
+    padding:0 3px;
+}
+
+.teacher-second-video_container {
+    z-index:1;
+    position:relative;
+}
+
+.course-second-video_container {
+    z-index:1;
+    position:relative;
+    background-color: black;
+}
+
+.j-answer-placeholder {
+    cursor: pointer;
+}
+.teacher-second__theme-prices {
+    padding: 18px 20px;
+    background-color: #d8f6ee;
+    position: relative;
+}
+
+.teacher-second__theme-prices::after {
+    content: '';
+    position: absolute;
+    height: 120%;
+    width: 1px;
+    border-left: 1px dashed #203636;
+    left: 55px;
+    top: 0;
+    z-index: 1;
+}
+
+.teacher-kids__speaking_img_wrapper {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px 8px 0 0;
+}
+
+.teacher-kids__speaking_img_wrapper:last-child {
+    margin-right: 0;
+}
+
+.teacher-kids__speaking_img_wrapper:hover {
+    -webkit-box-shadow: 0 0 0 3px #3298de;
+    box-shadow: 0 0 0 3px #3298de;
+}
+
+html:not(.mobile) .teacher-kids__speaking_img_choose-btn {
+    visibility: hidden;
+}
+
+.teacher-kids__speaking_img_wrapper:hover .teacher-kids__speaking_img_choose-btn {
+    visibility: visible;
+}
+
+.teacher-kids__speaking_img {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    overflow: hidden;
+    padding: 10px;
+    vertical-align: middle;
+    position: relative;
+}
+
+.teacher-kids__speaking_img {
+    width: 250px;
+    height: 250px;
+    -webkit-box-shadow: 0 0 0 1px #ececec;
+    box-shadow: 0 0 0 1px #ececec;
+    border-radius: 3px;
+}
+
+.teacher-kids__speaking_img.puzzle-figure__wrapper {
+    background-color: #fff;
+    margin: 0;
+}
+
+.wrapper-wrong-answer .teacher-kids__speaking_img {
+    border:1px solid #55a512;
+}
+
+.teacher-kids__speaking_img svg path {
+    fill:#fff !important;
+}
+
+
+.teacher-kids__speaking_img .puzzle-button_blue.puzzle-button_icon {
+    position: absolute;
+    right: 11px;
+    bottom: 14px;
+}
+
+
+.image_selector_task .puzzle-dashed_anim_scale img {
+    animation-name: puzzle-scale-mini;
+    animation-duration: 1.6s;
+    animation-timing-function: ease-out;
+    animation-iteration-count: infinite;
+}
+
+.hidden_puzzle img {
+    display: none;
+}
+
+.b-add_comment {
+    margin-top:25px;
+}
+
+.vteacher_viewport_kids .puzzle_task {
+    position: relative;
+}
+
+.vteacher_viewport_kids .puzzle_task .puzzle-dashed  {
+    width: auto;
+    height: auto;
+}
+
+.vteacher_viewport_kids .puzzle_task .puzzle-dashed.width-78 {
+    width: 78px;
+}
+
+.speaking_img_test .puzzle_task .puzzle-dashed, .speaking_img_input_test .puzzle_task .puzzle-dashed {
+    border: 1px dashed #a9dba9;
+}
+
+.teacher-second-one-test img {
+    max-width: 100% !important;
+    max-height:250px;
+}
+
+.teacher-kids__speaking_img img {
+    cursor: default;
+    max-height: 280px;
+    max-width: 200px !important;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.puzzle-comment__text {
+    word-wrap:break-word;
+}
+
+.kids_path .top-bar_kids, .kids_path footer {
+    display:none;
+}
+
+.teacher-second__lessons__btn-early span i {
+    font-style: normal;
+}
+
+.vteacher__header-px.teacher-second__header .container-fluid {
+    position: relative;
+}
+
+.teacher-second__exam-errors-list {
+    list-style: none;
+}
+
+.teacher-second__exam-errors-list-item {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px dashed #c5c7bc;
+}
+
+.teacher-second__exam-errors-list-item:last-child {
+    border-bottom: none;
+}
+
+.teacher-second__exam-errors {
+    margin-top: 30px;
+}
+
+.teacher-second-finish .white-round-box {
+    text-align: center;
+}
+
+.vteacher__exam__main__repeat__title {
+    margin-bottom: 50px;
+}
+
+.jBox-closeButton-box .jBox-closeButton {
+    border: none;
+    top: -7px;
+    right: -46px;
+}
+
+.jBox-closeButton-box .jBox-closeButton svg {
+    width: 25px;
+    height: 25px;
+}
+
+.jBox-closeButton-box .jBox-closeButton svg path {
+    fill: #d6d6d6;
+}
+
+.jBox-closeButton:hover svg path {
+    fill: #ffffff;
+}
+
+/*  */
+
+@media only screen and (max-width: 992px) {
+    .vteacher__exercise__header__progress__popup {
+        position: fixed;
+        left: 50%;
+        top: 150px;
+    }
+
+    .vteacher__exercise__header__progress__popup::before {
+        content: none;
+    }
+
+    .train-progress__wrapper.is-popup-open .train-progress__item:before {
+        content: '';
+        position: absolute;
+        width: 22px;
+        height: 22px;
+        left: -1px;
+        top: -1px;
+        border: 3px solid #ff812d;
+        border-radius: 50%;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+    }
+
+}
+
+@media only screen and (max-width: 767px) {
+
+    .vteacher__test-info__content {
+        overflow-y: auto;
+    }
+
+    .vteacher__exercise__header__progress__popup {
+        top: 250px;
+    }
+
+    .vteacher__exercise__header__progress__popup {
+        min-width: 280px;
+    }
+
+    .teacher-dictionary__lesson-item {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        position: relative;
+    }
+
+    .teacher-dictionary__lesson-button {
+        position: absolute;
+        right: 10px;
+        top: 50%;
+        margin-top: -20px;        
+        margin-left: 0;
+    }
+
+    .teacher-dictionary__header {
+        display: block;
+        text-align: center;
+    }
+
+    .teacher-dictionary__sort {
+        margin-bottom: 20px;
+    }
+
+    .teacher-dictionary__sort .puzzle-sort__item {
+        width: 49%;
+    }
+
+    .teacher-dictionary__sort-filter {
+        display: block;
+    }
+
+    .teacher-dictionary__search input {
+        width: 100%;
+    }
+
+    .teacher-second__buy-button {
+        width: 90%;
+    }
+
+}
+
+/* Small devices (tablets, 768px and up) */
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+
+    .vteacher-test-video {
+        max-width:100%;
+    }
+
+    .teacher-second-video {
+        height: 348px;
+        width: 667px;
+    }
+
+    .teacher-second__themes__item__left {
+        width: 600px;
+        height: 290px;
+    }
+
+    .teacher-second__themes__item__right {
+        width: 58.5%;
+    }
+
+    .teacher-second__themes__item__header {
+        height: 150px;
+    }
+
+    .course-second__themes__item__header {
+        height: 200px;
+    }
+
+    .course_lessons_list {
+        position: absolute;
+        top: 15px;
+        right: 25px;
+        margin: 0;
+    }
+
+    .teacher-second__header {
+        padding: 15px 0 !important;
+    }
+
+    .vteacher__header-px .vteacher__header__profile__name {
+        display: none !important;
+    }
+
+    .teacher-second__level__progress .puzzle-button_blue {
+        min-width: 0 !important;
+    }
+
+    .vteacher__test-info {
+        /*width: 48vh;*/
+        margin: -42vh 0 0 -25vh;
+    }
+
+    .vteacher__test-info-course {
+        min-width: auto;
+    }
+
+    .teacher-second__themes > .l-wrapper {
+        max-width: 100%;
+    }
+
+    .teacher-choose-level__item {
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+
+    .teacher-second-exercise_kids .teacher-second-video {
+        height: 420px;
+    }
+
+    .teacher-kids__speaking_img_wrapper {
+        width: 200px;
+        height: 350px;
+    }
+
+    .teacher-kids__speaking_img.puzzle-figure__wrapper {
+        width: 180px;
+    }
+
+    .vteacher__test-info__btn {
+        margin-bottom: 20px;
+        float: none !important;
+        display: inline-block;
+        width: 49%;
+    }
+
+    .vteacher__exercise__final__lessons__steps__btn-blue {
+        float: none !important;
+    }
+
+    .teacher-second-video {
+        vertical-align: bottom !important;
+        height: 317px;
+    }
+
+
+    .teacher-second-exercise {
+        max-width: 100%;
+    }
+
+    .puzzle-input-container {
+        width: 70%;
+    }
+
+    body .vteacher__free-daily-lesson .vteacher__test-info__text {
+        padding: 0;
+    }
+
+    .vteacher__test-info__btn-blue, .vteacher__test-info__btn-green {
+        font-size: 1.4vh;
+    }
+
+    .vteacher__test-info__counter__title {
+        font-size: 2vh;
+    }
+
+    .teacher-second-board {
+        min-height: 190px;
+    }
+
+    .teacher-second-exercise {
+        margin-bottom: 30px;
+    }
+
+    .teacher-second-video__button {
+        bottom: 45px;
+    }
+
+    .teacher-level__name.puzzle_va_middle.puzzle-text_fz_18.puzzle-text_c_fff-white {
+        font-size: 16px !important;
+    }
+
+    .teacher-level__info-item {
+        margin-right: 5px;
+    }
+
+    .vteacher__exam__main__title__text {
+        font-size: 24px;
+    }
+}
+
+/*Extra small devices (phones)*/
+
+@media only screen and (max-width : 767px) {
+
+    .vteacher-test-video {
+        max-width:100%;
+    }
+
+    .feedback-form-wrap {
+        max-width: 100% !important;
+    }
+
+    .teacher-second__level__progress .test-progress_teacher-levels {
+        margin-right: 0;
+    }
+
+    .teacher-second__level__progress__count {
+        margin-bottom: 20px;
+    }
+
+    .teacher-second__themes__item__header {
+        height: auto;
+    }
+
+    .teacher-second__themes__item__left {
+        width: 100%;
+        height: auto;
+        background-position: center;
+        padding-bottom: 37.5%;
+    }
+
+    .teacher-second__themes__item__name {
+        position: absolute;
+    }
+
+    span.puzzle-text.puzzle-text_fz_16.puzzle-text_ff_segoe.puzzle_va_middle .b-progress_bg.b-progress_bg_lesson {
+        display: none;
+    }
+
+    .teacher-second__lessons__item__right .puzzle-button_blue {
+        min-width: 50px !important;
+        width: 80px;
+        height: 40px;
+        margin: 0 0 0 5px !important;
+    }
+
+    .teacher-second__lessons__item__right .puzzle-button_green {
+        padding: 7px 10px 13px;
+        min-width: 50px !important;
+        min-width: 80px;
+        height: 40px;
+        margin: 0 0 0 5px !important;
+    }
+
+    .teacher-second__lessons__start__button__text {
+        width: auto;
+        margin-top: 11px;
+        font-size: 12px;
+    }
+
+    .teacher-second__lessons__item {
+        padding-right: 15px;
+    }
+
+    .teacher-second__lessons__btn-early span i {
+        display: none;
+    }
+
+    .teacher-second__header {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+
+    .vteacher__header__right .arrow-dropdown-menu__container {
+        left: 10px;
+        right: auto;
+        top: 130px;
+    }
+
+    .vteacher__test-info {
+        width: 84%;
+        margin-left: -42%;
+    }
+
+    .vteacher__test-info__btn {
+        float: none !important;
+        margin-bottom: 20px;
+        display: inline-block;
+        width: 49%;
+    }
+
+    .vteacher__header-px .vteacher__header__right + .vteacher__header__profile__menu {
+        right: 10px;
+        top: 130px;
+    }
+
+    .vteacher__test-info__btn-blue, .vteacher__test-info__btn-green {
+        font-size: 1.4vh;
+        width: auto;
+    }
+
+    .train-progress {
+        width: auto;
+    }
+
+    .teacher-second-exercise > .white-round-box {
+        -webkit-flex-flow: column wrap;
+        -moz-flex-flow: column wrap;
+        -ms-flex-flow: column wrap;
+        -o-flex-flow: column wrap;
+        flex-flow: column wrap;
+    }
+
+    .teacher-second-video {
+        width: 100%;
+        height: 380px;
+    }
+
+    .teacher-second-board {
+        min-height: 0;
+        padding: 0 0 0 10px;
+        margin: 0 0 20px 0;
+    }
+
+    .teacher-second-video + .puzzle_va_top {
+        width: 100%;
+    }
+
+    .teacher-second__themes__item__right {
+        width: auto;
+    }
+
+    .teacher-second__lessons__item__right {
+        width: 95px;
+    }
+
+    .teacher-second__lessons__stars__icon {
+        margin-right: 0;
+    }
+
+    .teacher-second__lessons__stars__icon {
+        width: 27px;
+        height: 25px;
+    }
+
+    .teacher-second__lessons__content > div {
+        margin-left: 0 !important;
+    }
+
+    .teacher-second__themes__item__prop {
+         max-width: 70%;
+     }
+
+     .teacher-second__themes__item__right {
+         max-width: 100%;
+     }
+
+     .teacher-second__lessons__item__text__title-big {
+        font-size: 20px;
+        height: 20px;
+        overflow: hidden;
+        -ms-text-overflow: ellipsis;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+     }
+
+     .teacher-second__lessons__item__left {
+        width: calc(100% - 100px);
+     }
+
+     .teacher-second__themes__item__name::after {
+        content: none;
+     }
+
+     .teacher-second__themes__item_opened .teacher-second__themes__item__name::after {
+        content: none;
+     }
+
+     .teacher-second__lessons__item__num::after {
+        content: none;
+     }
+
+     .teacher-second-one-test__top-info-left-text {
+        text-align: left;
+     }
+
+     .container-fluid.teacher-second__container {
+        overflow: hidden;
+     }
+
+    .teacher-choose-level__item{
+        padding: 15px 0;
+        margin-right: 0 !important;
+        margin-bottom: 20px;
+    }
+
+    .test-progress__exam-level {
+        right: 0;
+    }
+
+    .test-progress__exam-level::before {
+        left: 50%;
+    }
+
+    .vteacher__exercise__final__lessons__steps__btn-blue .teacher-second__lessons__stars__icon {
+        width: 17px;
+        height: 15px;
+    }
+
+    span.puzzle-comment__date.puzzle-text_c_9e9e9e-lightgray.puzzle-text_fz_14 {
+        display: block;
+    }
+
+    .apple-mark:hover .apple-mark__title {
+        opacity: 1;
+    }
+    
+    .lesson_dictionary {
+        position: relative;
+    }
+
+    .lesson_dictionary .dictionary-item {
+        position: static;
+    }
+
+    .vteacher__exercise__content__text__translate-balloon {
+        top: 5.5vh;
+        width: 100%;
+        padding: 2vh 2vh 3vh 2vh;
+    }
+
+    .vteacher__exercise__content__text__translate-balloon::after {
+        display: none;
+    }
+
+    .vteacher__exercise__content__text__translate-balloon__text {
+        font-size: 14px;
+    }
+
+    .vteacher__test-info-course {
+        min-width: auto;
+    }
+
+    .course__lesson-list-row .teacher-second__lessons__item__right {
+        width: auto;
+    }
+
+}
+
+/*Extra small devices (iphone 5)*/
+
+@media only screen and (max-width : 480px) {
+
+    .vteacher-test-video {
+        max-width:100%;
+    }
+
+    .teacher-second__lessons__item__text__title-big {
+        font-size: 16px;
+        height: 18px;
+    }
+
+    .teacher-second__lessons__item__num {
+        margin-right: 3px;
+    }
+
+    .teacher-second__themes__item__prop {
+        font-size: 10px;
+    }
+
+    .teacher-second__themes__item__name__top {
+        font-size: 20px;
+    }
+
+    .teacher-second__lessons__item {
+        padding: 12px 10px 15px 10px;
+    }
+
+    .teacher-second__lessons__item__text__title-mini {
+        overflow: hidden;
+        max-height: 30px;
+        text-overflow: ellipsis;
+    }
+
+    .teacher-second__lessons__item__left {
+        width: calc(100% - 50px);
+    }
+
+    .teacher-second__lessons__item__text {
+        width: calc(100% - 40px);
+    }
+
+    .teacher-second__lessons__item[data-is-test="1"].is-disabled .teacher-second__lessons__item__left,
+    .teacher-second__lessons__item[data-is-test="2"].is-disabled .teacher-second__lessons__item__left,
+    .teacher-second__lessons__item.is-active .teacher-second__lessons__item__left{
+        width: calc(100% - 90px);
+    }       
+
+    .teacher-second__lessons__item__right {
+        width: 45px;
+    }
+
+    .teacher-second__lessons__item[data-is-test="1"].is-disabled .teacher-second__lessons__item__right,
+    .teacher-second__lessons__item[data-is-test="2"].is-disabled .teacher-second__lessons__item__right,
+    .teacher-second__lessons__item.is-active .teacher-second__lessons__item__right {
+        width: 85px;
+    }    
+
+    .teacher-second__lessons__item__circle {
+        width: 38px;
+        height: 38px;
+        padding-top: 3px;
+    }
+
+    .teacher-second__lessons__item__right .teacher-second__lessons__stars__icon {
+        width: 14px;
+        height: 12px;
+    }
+
+    .teacher-second__lessons__item__repeat {
+        font-size: 9px;
+    }
+
+    .teacher-second__lessons__exam-handed svg {
+        width: 40px !important;
+        height: 40px !important;
+    }
+
+    .teacher-second__completed_date {
+        font-size: 9px;
+    }
+
+    .teacher-second__lessons__item__num {
+        width: 30px;
+        height: 30px;
+        font-size: 16px;
+        padding-top: 4px;
+    }
+
+    .teacher-second__lessons__item-prepod .teacher-second__lessons__item__num {
+        padding-top: 2px;
+    }
+
+
+}
+
+.teacher-second__lessons__exam-handed {
+    text-align:center;
+}
+
+.teacher_repeat_lesson_link {
+    float:right;
+    padding-bottom:15px;
+    padding-right:25px;
+    cursor:pointer;
+    color:#4594D1;
+    font-size:16px;
+}
+
+.error-test-content .puzzle-input-box, .error-test-content .puzzle-answer-button {
+    display:none;
+}
+
+.results-switcher {
+    font-family: 'MuseoNew', Arial, sans-serif, Helvetica;
+    font-size:12px;
+    display: inline-block;
+    padding-left:20px;
+}
+
+body.teacher .puzzle-footer .puzzle-tabs__item {
+    z-index: 0;
+}
+
+@media only screen and (max-width: 768px){
+    .course-second-video_container {
+        background-color: white;
+    }
+
+    .course-second__themes__item__header {
+        flex-flow: column;
+        height: 100%;
+    }
+
+    .course-second__themes__item__left {
+        width: auto;
+        height: auto !important;
+    }
+
+    .course-second__themes__item__right {
+        width: 100% !important;
+        padding-bottom: 30px;
+    }
+
+    .course-block-image {
+        width: 100%;
+    }
+
+    .course_lessons_list-block {
+        padding: 0 20px;
+        width: auto !important;
+    }
+
+    .course_lessons_list {
+        min-width: 100px !important;
+        width: 100%;
+        margin: 0;
+    }
+
+    .course__lesson-list-row {
+        padding: 20px;
+        height: auto;
+    }
+
+    .course-second__themes__item__prop {
+        font-size: 14px;
+        display: flex;
+        max-width: 100%;
+    }
+
+    .course-second__lessons__item__text__title-big {
+        padding-left: 5px;
+        height: 22px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .course-second-video_container {
+        max-height: 338px;
+    }
+}
+
+pere {
+    font-size: 15px;
+    color:#999;
+    display: none;
+    line-height: 40px;
+}
+
+.teacher-second__breadcrumb_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.teacher-second__breadcrumb {
+    padding: 10px 0px 10px 0px;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.teacher-second__breadcrumb li {
+    font-size: 14px;
+    margin: 5px;
+}
+
+.teacher-second__breadcrumb li:last-child {
+    color: #9eb6c6;
+}
+
+/* Add a slash symbol (/) before/behind each list item */
+.teacher-second__breadcrumb li+li:before {
+    padding: 0px 10px 0px 0px;
+    content: "\2192";
+    color: #333;
+
+}
+
